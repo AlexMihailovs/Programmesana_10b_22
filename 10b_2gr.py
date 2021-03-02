@@ -2,7 +2,7 @@
 Kudrjavceva Veronika
 2 	
 Melnic Ana
- print(40-5**3)	
+ print(40*5-5**3)	
 #Mihailovs Alekss
 4 	
 Orlova Katerina
